@@ -1,2 +1,1 @@
-# rsschool-cv
-my RSSchool projects
+https://OMGWHATAMIDOING.github.io/rsschool-cv/cv
